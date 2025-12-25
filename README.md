@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about C, Python, Java, and JavaScript
+🔭 I’m currently working on AI&ML<br>💬 Ask me about C, Python, Java, and JavaScript
 
 
 ## 🌐 Socials:
