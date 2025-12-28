@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI&ML<br>💬 Ask me about C, Python, Java, and JavaScript
+🔭 Python | Backend | AI/ML | Open-source learner
 
 
 ## 🌐 Socials:
