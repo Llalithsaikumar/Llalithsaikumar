@@ -12,10 +12,4 @@ AI & Data Science graduate passionate about building **backend systems, LLM-powe
 ![](https://streak-stats.demolab.com/?user=Llalithsaikumar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Llalithsaikumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Llalithsaikumar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![]([https://komarev.com/ghpvc/?username=Llalithsaikumar&icon=0&color=0](https://www.lalithsaikumar.in/))]
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
