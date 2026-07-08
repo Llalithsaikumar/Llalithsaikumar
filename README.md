@@ -16,6 +16,6 @@ AI & Data Science graduate passionate about building **backend systems, LLM-powe
 ![](https://github-profile-trophy.vercel.app/?username=Llalithsaikumar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Llalithsaikumar&icon=0&color=0)](https://visitcount.itsvg.in)
+[![]([https://komarev.com/ghpvc/?username=Llalithsaikumar&icon=0&color=0](https://www.lalithsaikumar.in/))]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
