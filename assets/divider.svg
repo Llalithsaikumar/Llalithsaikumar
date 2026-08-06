@@ -1,10 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="2" viewBox="0 0 900 2" fill="none" role="presentation">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="3" viewBox="0 0 900 3" fill="none" role="presentation">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#8892A0" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#8892A0" stop-opacity="0.55"/>
+    <linearGradient id="base" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#8892A0" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#8892A0" stop-opacity="0.45"/>
       <stop offset="100%" stop-color="#8892A0" stop-opacity="0"/>
     </linearGradient>
+    <linearGradient id="shine" x1="-320" y1="0" x2="-40" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#6E56CF" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#6E56CF" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#6E56CF" stop-opacity="0"/>
+      <animate attributeName="x1" from="-320" to="900"  dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" from="-40"  to="1220" dur="4.5s" repeatCount="indefinite"/>
+    </linearGradient>
   </defs>
-  <rect width="900" height="2" rx="1" fill="url(#g)"/>
+  <rect width="900" height="3" rx="1.5" fill="url(#base)"/>
+  <rect width="900" height="3" rx="1.5" fill="url(#shine)"/>
 </svg>
